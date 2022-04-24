@@ -9,7 +9,7 @@ This is a smart contract for an Ethereum-based joint savings account for eth. It
 * Compile the smart contract in the Remix IDE. If any errors occur, fix them.
 * Deploy the smart contract in the Ethereum network.
 
-### How to deploy in a VM and test using the Remix IDE
+### How to test using the Remix IDE
 
 1. Set accounts
 
