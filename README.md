@@ -9,6 +9,8 @@ This is a smart contract for an Ethereum-based joint savings account for eth. It
 * Compile the smart contract in the Remix IDE. If any errors occur, fix them.
 * Deploy the smart contract in the Ethereum network.
 
+---
+
 ### Test using the Remix IDE
 
 1. Set accounts
@@ -22,3 +24,23 @@ This is a smart contract for an Ethereum-based joint savings account for eth. It
 3. Make some withdrawals
 ![Step 3 Withdraw 5](/Execution_Results/Step3_Withdraw5.png)
 ![Step 3 Withdraw 10](/Execution_Results/Step3_Withdraw10.png)
+
+---
+
+## Technologies
+
+This application was written in Solidity 5.0 
+
+
+## Contributors
+
+Rachael Donham
+rachaeldonham@gmail.com
+
+---
+
+## License
+
+MIT
+    
+
